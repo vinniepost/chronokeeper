@@ -3,7 +3,7 @@ import os
 import json
 import cohere
 
-co = cohere.ClientV2(api_key="MINFYkXis9EEGc9J0RgN1ENuiUW1XZw1XTtFAVL5")  # Replace with your Cohere API key
+co = cohere.ClientV2(api_key="YOUR_COHERE_API_KEY")
 
 # Define the days for two weeks
 days = [
